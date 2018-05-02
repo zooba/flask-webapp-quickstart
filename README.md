@@ -1,4 +1,6 @@
 
+[![Staging Status](https://stevedower.vsrm.visualstudio.com/_apis/public/Release/badge/63efe0f8-8c0f-4283-86ad-5e2e6f08dc91/1/1)](https://testregistry14-staging.azurewebsites.net/) [![Prod Status](https://stevedower.vsrm.visualstudio.com/_apis/public/Release/badge/63efe0f8-8c0f-4283-86ad-5e2e6f08dc91/1/2)](https://testregistry14.azurewebsites.net/)
+
 ## Prerequisites
 To complete this tutorial:
 
